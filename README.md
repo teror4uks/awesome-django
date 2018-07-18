@@ -261,6 +261,7 @@ phone numbers.
 * [django-searchable-select](https://github.com/and3rson/django-searchable-select) - A better and faster multiple choice widget with suggestions.
 * [django-uuidfield](https://github.com/dcramer/django-uuidfield/) - A UUIDField for Django.
 * [django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield/) - A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for quickly creating new images from the one assigned to the field.
+* [django-select2](https://github.com/applegrew/django-select2/) - This is a Django integration of Select2.
 
 ## File Transfers
 
